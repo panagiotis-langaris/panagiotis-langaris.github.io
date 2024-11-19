@@ -1,6 +1,6 @@
-# My Portfolio Website
+# Portfolio Website
 
-This repository contains the code for my personal portfolio website! This is where I showcase my academic background, skills, and experience.
+This repository contains the code for my personal portfolio website. This is where I showcase my academic background, skills, and experience.
 
 ---
 
