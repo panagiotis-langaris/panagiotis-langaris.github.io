@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #D0D0D0;
+    color: #C96C50;
 }
 
 p {
@@ -35,8 +35,7 @@ a.active {
 }
 
 a {
-    color: #3939ac;
-    /*color: #3333ff;*/
+    color: #C96C50;
     font-weight: bold;
 }
 
@@ -44,7 +43,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #3939ac;
+    color: #B45D45;
 }
 
 b { 
@@ -71,7 +70,7 @@ h4 {
 }
 
 .bg-light-gray {
-    background-color: #fafffa;
+    background-color: #F6F3EE;
 }
 
 .bg-darkest-gray {
@@ -79,12 +78,12 @@ h4 {
 }
 
 .btn-primary {
-    border-color: #D0D0D0;
+    border-color: #243746;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #D0D0D0;
+    background-color: #243746;
 }
 
 .btn-primary:hover,
@@ -94,7 +93,7 @@ h4 {
 .open .dropdown-toggle.btn-primary {
     border-color: #f6bf01;
     color: #fff;
-    background-color: #C0C0C0;
+    background-color: #5B6B7A;
 }
 
 .btn-primary:active,
@@ -118,25 +117,25 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #D0D0D0;
-    background-color: #D0D0D0;
+    border-color: #243746;
+    background-color: #243746;
 }
 
 .btn-primary .badge {
-    color: #D0D0D0;
+    color: #243746;
     background-color: #fff;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #D0D0D0;
+    border-color: #243746;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #D0D0D0;
+    background-color: #243746;
 }
 
 .btn-xl:hover,
@@ -146,7 +145,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #f6bf01;
     color: #fff;
-    background-color: #C0C0C0;
+    background-color: #5B6B7A;
 }
 
 .btn-xl:active,
@@ -170,12 +169,12 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #D0D0D0;
-    background-color: #D0D0D0;
+    border-color: #243746;
+    background-color: #243746;
 }
 
 .btn-xl .badge {
-    color: #D0D0D0;
+    color: #243746;
     background-color: #fff;
 }
 
